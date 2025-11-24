@@ -14,5 +14,5 @@ A Python automation script that periodically checks your Student Information Sys
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/student-grade-bot.git](https://github.com/yourusername/student-grade-bot.git)
-   cd student-grade-bot
+   git clone [https://github.com/Suyumm/Student-Grade-Automation-Bot.git](https://github.com/Suyumm/Student-Grade-Automation-Bot.git)
+   cd Student-Grade-Automation-Bot
