@@ -15,10 +15,6 @@ A Python automation script that periodically checks your Student Information Sys
 - **Diff Checking:** Compares old data with new data; only notifies you about *changes*.
 - **First Run Silence:** Does not spam you with all existing grades on the first run.
 
-<img width="1834" height="973" alt="image" src="https://github.com/user-attachments/assets/cf0dc2e3-7f6a-4027-ac88-5155f3673509" />
-
-
-
 ## 🛠️ Installation
 
 1. Clone the repository:
