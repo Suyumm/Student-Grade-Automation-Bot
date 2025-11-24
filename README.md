@@ -1,4 +1,6 @@
-<img width="1833" height="972" alt="image" src="https://github.com/user-attachments/assets/2a8e89f4-8533-4ce2-a0ac-db45188d2045" />![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+<img width="1833" height="972" alt="image" src="https://github.com/user-attachments/assets/2a8e89f4-8533-4ce2-a0ac-db45188d2045" />
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0-green?style=for-the-badge&logo=selenium&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
