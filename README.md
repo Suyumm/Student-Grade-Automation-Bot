@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-4.0-green?style=for-the-badge&logo=selenium&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 # 🎓 Student Grade Automation Bot
 
 A Python automation script that periodically checks your Student Information System (OIS/OBS) for new exam grades and sends instant notifications via Telegram.
